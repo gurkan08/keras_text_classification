@@ -1,0 +1,9 @@
+Django==2.0
+djangorestframework==3.11.0
+Keras==2.2.4
+tensorflow==1.13.1
+matplotlib==3.2.1
+pandas==1.1.2
+requests
+fasttext
+git+https://github.com/keras-team/keras-contrib
